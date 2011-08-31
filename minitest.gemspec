@@ -35,8 +35,8 @@ test suite. For example, there is no magic involved for test-case
 discovery.}
   s.email = ["ryand-ruby@zenspider.com"]
   s.extra_rdoc_files = ["History.txt", "Manifest.txt", "README.txt"]
-  s.files = [".autotest", "History.txt", "Manifest.txt", "README.txt", "Rakefile", "design_rationale.rb", "lib/hoe/minitest.rb", "lib/minitest/autorun.rb", "lib/minitest/benchmark.rb", "lib/minitest/mock.rb", "lib/minitest/pride.rb", "lib/minitest/spec.rb", "lib/minitest/unit.rb", "test/test_minitest_benchmark.rb", "test/test_minitest_mock.rb", "test/test_minitest_spec.rb", "test/test_minitest_unit.rb", ".gemtest"]
-  s.homepage = %q{home :: https://github.com/seattlerb/minitest}
+  s.files = [".autotest", "History.txt", "Manifest.txt", "README.txt", "Rakefile", "design_rationale.rb", "lib/hoe/minitest.rb", "lib/minitest/autorun.rb", "lib/minitest/benchmark.rb", "lib/minitest/mock.rb", "lib/minitest/pride.rb", "lib/minitest/spec.rb", "lib/minitest/unit.rb", "test/test_minitest_benchmark.rb", "test/test_minitest_mock.rb", "test/test_minitest_spec.rb", "test/test_minitest_unit.rb"]
+  s.homepage = %q{https://github.com/seattlerb/minitest}
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{bfts}
